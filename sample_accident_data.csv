@@ -1,0 +1,5 @@
+Date,Time,Weather_Conditions,Light_Conditions,Speed_Limit,Vehicle_Type,Accident_Severity
+2023-01-05,08:30,Clear,Daylight,50,Car,0
+2023-01-06,17:45,Rain,Darkness,40,Bus,1
+2023-01-07,22:10,Snow,Darkness,30,Truck,2
+2023-01-08,14:00,Fog,Daylight,60,Bike,0
